@@ -1,0 +1,28 @@
+C:\Users\Administrator\Desktop\Manufacturing Execution\DAL\bin\Release\DAL.dll
+C:\Users\Administrator\Desktop\Manufacturing Execution\DAL\bin\Release\DAL.pdb
+C:\Users\Administrator\Desktop\Manufacturing Execution\DAL\obj\Release\DAL.dll
+C:\Users\Administrator\Desktop\Manufacturing Execution\DAL\obj\Release\DAL.pdb
+C:\Users\Administrator\Desktop\Manufacturing Execution\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+G:\工作簿\MES管理系统\Manufacturing Execution\DAL\bin\Release\DAL.dll
+G:\工作簿\MES管理系统\Manufacturing Execution\DAL\bin\Release\DAL.pdb
+G:\工作簿\MES管理系统\Manufacturing Execution\DAL\obj\Release\DAL.dll
+G:\工作簿\MES管理系统\Manufacturing Execution\DAL\obj\Release\DAL.pdb
+G:\工作簿\MES管理系统\Manufacturing Execution\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+D:\工作簿\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\DAL\bin\Release\DAL.dll
+D:\工作簿\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\DAL\bin\Release\DAL.pdb
+D:\工作簿\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\DAL\obj\Release\DAL.dll
+D:\工作簿\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\DAL\obj\Release\DAL.pdb
+D:\工作簿\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\DAL\bin\Release\DAL.dll
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\DAL\bin\Release\DAL.pdb
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\DAL\bin\Release\ICSharpCode.SharpZipLib.dll
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\DAL\bin\Release\Model.dll
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\DAL\bin\Release\NPOI.dll
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\DAL\bin\Release\NPOI.OOXML.dll
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\DAL\bin\Release\NPOI.OpenXml4Net.dll
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\DAL\bin\Release\NPOI.OpenXmlFormats.dll
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\DAL\bin\Release\Model.pdb
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\DAL\bin\Release\NPOI.xml
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\DAL\obj\Release\DAL.dll
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\DAL\obj\Release\DAL.pdb

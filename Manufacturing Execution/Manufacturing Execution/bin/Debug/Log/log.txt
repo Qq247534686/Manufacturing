@@ -1,0 +1,143 @@
+2016-10-30 22:26:17
+System.ArgumentOutOfRangeException: 索引超出范围。必须为非负值并小于集合大小。
+参数名: index
+   在 System.Collections.ArrayList.get_Item(Int32 index)
+   在 System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   在 System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   在 Manufacturing_Execution.SpecificationsQuery.dataGridView1_CellDoubleClick(Object sender, DataGridViewCellEventArgs e) 位置 d:\工作簿\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\SpecificationsQuery.cs:行号 39
+2016-10-30 22:26:17
+System.ArgumentOutOfRangeException: 索引超出范围。必须为非负值并小于集合大小。
+参数名: index
+   在 System.Collections.ArrayList.get_Item(Int32 index)
+   在 System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   在 System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   在 Manufacturing_Execution.SpecificationsQuery.dataGridView1_CellDoubleClick(Object sender, DataGridViewCellEventArgs e) 位置 d:\工作簿\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\SpecificationsQuery.cs:行号 39
+2016-10-30 22:27:20
+System.ArgumentOutOfRangeException: 索引超出范围。必须为非负值并小于集合大小。
+参数名: index
+   在 System.Collections.ArrayList.get_Item(Int32 index)
+   在 System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   在 System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   在 Manufacturing_Execution.SpecificationsQuery.dataGridView1_CellDoubleClick(Object sender, DataGridViewCellEventArgs e) 位置 d:\工作簿\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\SpecificationsQuery.cs:行号 39
+2016-10-30 22:27:52	System.ArgumentOutOfRangeException: 索引超出范围。必须为非负值并小于集合大小。
+参数名: index
+   在 System.Collections.ArrayList.get_Item(Int32 index)
+   在 System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   在 System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   在 Manufacturing_Execution.SpecificationsQuery.dataGridView1_CellDoubleClick(Object sender, DataGridViewCellEventArgs e) 位置 d:\工作簿\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\SpecificationsQuery.cs:行号 39
+2016-10-30 22:27:53	System.ArgumentOutOfRangeException: 索引超出范围。必须为非负值并小于集合大小。
+参数名: index
+   在 System.Collections.ArrayList.get_Item(Int32 index)
+   在 System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   在 System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   在 Manufacturing_Execution.SpecificationsQuery.dataGridView1_CellDoubleClick(Object sender, DataGridViewCellEventArgs e) 位置 d:\工作簿\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\SpecificationsQuery.cs:行号 39
+2016-10-30 22:29:19	
+System.ArgumentOutOfRangeException: 索引超出范围。必须为非负值并小于集合大小。
+参数名: index
+   在 System.Collections.ArrayList.get_Item(Int32 index)
+   在 System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   在 System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   在 Manufacturing_Execution.SpecificationsQuery.dataGridView1_CellDoubleClick(Object sender, DataGridViewCellEventArgs e) 位置 d:\工作簿\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\SpecificationsQuery.cs:行号 39
+2016-10-30 22:29:19	
+System.ArgumentOutOfRangeException: 索引超出范围。必须为非负值并小于集合大小。
+参数名: index
+   在 System.Collections.ArrayList.get_Item(Int32 index)
+   在 System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   在 System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   在 Manufacturing_Execution.SpecificationsQuery.dataGridView1_CellDoubleClick(Object sender, DataGridViewCellEventArgs e) 位置 d:\工作簿\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\SpecificationsQuery.cs:行号 39
+2016-10-31 13:45:41	
+System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at DAL.D_GetMethod.GetM_Specifications(String keyword) in g:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\DAL\D_GetMethod.cs:line 159
+   at BLL.B_GetMethod.GetM_Specifications(String keyword) in g:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\BLL\B_GetMethod.cs:line 71
+   at Manufacturing_Execution.Specifications.SetSpecificationsParameter(String keyword) in g:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\Specifications.cs:line 150
+   at Manufacturing_Execution.SpecificationsQuery.dataGridView1_CellDoubleClick(Object sender, DataGridViewCellEventArgs e) in g:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\SpecificationsQuery.cs:line 41
+2016-10-31 13:45:42	
+System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at DAL.D_GetMethod.GetM_Specifications(String keyword) in g:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\DAL\D_GetMethod.cs:line 159
+   at BLL.B_GetMethod.GetM_Specifications(String keyword) in g:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\BLL\B_GetMethod.cs:line 71
+   at Manufacturing_Execution.Specifications.SetSpecificationsParameter(String keyword) in g:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\Specifications.cs:line 150
+   at Manufacturing_Execution.SpecificationsQuery.dataGridView1_CellDoubleClick(Object sender, DataGridViewCellEventArgs e) in g:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\SpecificationsQuery.cs:line 41
+2016-10-31 13:45:43	
+System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at DAL.D_GetMethod.GetM_Specifications(String keyword) in g:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\DAL\D_GetMethod.cs:line 159
+   at BLL.B_GetMethod.GetM_Specifications(String keyword) in g:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\BLL\B_GetMethod.cs:line 71
+   at Manufacturing_Execution.Specifications.SetSpecificationsParameter(String keyword) in g:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\Specifications.cs:line 150
+   at Manufacturing_Execution.SpecificationsQuery.dataGridView1_CellDoubleClick(Object sender, DataGridViewCellEventArgs e) in g:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\SpecificationsQuery.cs:line 41
+2016-10-31 13:45:44	
+System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at DAL.D_GetMethod.GetM_Specifications(String keyword) in g:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\DAL\D_GetMethod.cs:line 159
+   at BLL.B_GetMethod.GetM_Specifications(String keyword) in g:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\BLL\B_GetMethod.cs:line 71
+   at Manufacturing_Execution.Specifications.SetSpecificationsParameter(String keyword) in g:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\Specifications.cs:line 150
+   at Manufacturing_Execution.SpecificationsQuery.dataGridView1_CellDoubleClick(Object sender, DataGridViewCellEventArgs e) in g:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\SpecificationsQuery.cs:line 41
+2016-10-31 13:45:45	
+System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at DAL.D_GetMethod.GetM_Specifications(String keyword) in g:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\DAL\D_GetMethod.cs:line 159
+   at BLL.B_GetMethod.GetM_Specifications(String keyword) in g:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\BLL\B_GetMethod.cs:line 71
+   at Manufacturing_Execution.Specifications.SetSpecificationsParameter(String keyword) in g:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\Specifications.cs:line 150
+   at Manufacturing_Execution.SpecificationsQuery.dataGridView1_CellDoubleClick(Object sender, DataGridViewCellEventArgs e) in g:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\SpecificationsQuery.cs:line 41
+2016-10-31 13:45:50	
+System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at DAL.D_GetMethod.GetM_Specifications(String keyword) in g:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\DAL\D_GetMethod.cs:line 159
+   at BLL.B_GetMethod.GetM_Specifications(String keyword) in g:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\BLL\B_GetMethod.cs:line 71
+   at Manufacturing_Execution.Specifications.SetSpecificationsParameter(String keyword) in g:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\Specifications.cs:line 150
+   at Manufacturing_Execution.SpecificationsQuery.dataGridView1_CellDoubleClick(Object sender, DataGridViewCellEventArgs e) in g:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\SpecificationsQuery.cs:line 41
+2016-10-31 15:06:30	
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.Collections.ArrayList.get_Item(Int32 index)
+   at System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   at System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   at Manufacturing_Execution.SpecificInformationQuery.dataGridView1_CellDoubleClick(Object sender, DataGridViewCellEventArgs e) in g:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\SpecificInformationQuery.cs:line 38
+2016-10-31 15:06:30	
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.Collections.ArrayList.get_Item(Int32 index)
+   at System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   at System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   at Manufacturing_Execution.SpecificInformationQuery.dataGridView1_CellDoubleClick(Object sender, DataGridViewCellEventArgs e) in g:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\SpecificInformationQuery.cs:line 38
+2016-10-31 15:06:31	
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.Collections.ArrayList.get_Item(Int32 index)
+   at System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   at System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   at Manufacturing_Execution.SpecificInformationQuery.dataGridView1_CellDoubleClick(Object sender, DataGridViewCellEventArgs e) in g:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\SpecificInformationQuery.cs:line 38
+2016-10-31 15:06:32	
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.Collections.ArrayList.get_Item(Int32 index)
+   at System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   at System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   at Manufacturing_Execution.SpecificInformationQuery.dataGridView1_CellDoubleClick(Object sender, DataGridViewCellEventArgs e) in g:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\SpecificInformationQuery.cs:line 38
+2016-10-31 15:06:33	
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.Collections.ArrayList.get_Item(Int32 index)
+   at System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   at System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   at Manufacturing_Execution.SpecificInformationQuery.dataGridView1_CellDoubleClick(Object sender, DataGridViewCellEventArgs e) in g:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\SpecificInformationQuery.cs:line 38
+2016-10-31 15:06:34	
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.Collections.ArrayList.get_Item(Int32 index)
+   at System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   at System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   at Manufacturing_Execution.SpecificInformationQuery.dataGridView1_CellDoubleClick(Object sender, DataGridViewCellEventArgs e) in g:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\SpecificInformationQuery.cs:line 38

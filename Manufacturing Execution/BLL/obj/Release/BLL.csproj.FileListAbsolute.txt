@@ -1,0 +1,27 @@
+C:\Users\Administrator\Desktop\Manufacturing Execution\BLL\bin\Release\BLL.dll
+C:\Users\Administrator\Desktop\Manufacturing Execution\BLL\bin\Release\BLL.pdb
+C:\Users\Administrator\Desktop\Manufacturing Execution\BLL\obj\Release\BLL.dll
+C:\Users\Administrator\Desktop\Manufacturing Execution\BLL\obj\Release\BLL.pdb
+G:\工作簿\MES管理系统\Manufacturing Execution\BLL\bin\Release\BLL.dll
+G:\工作簿\MES管理系统\Manufacturing Execution\BLL\bin\Release\BLL.pdb
+G:\工作簿\MES管理系统\Manufacturing Execution\BLL\obj\Release\BLL.dll
+G:\工作簿\MES管理系统\Manufacturing Execution\BLL\obj\Release\BLL.pdb
+D:\工作簿\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\BLL\bin\Release\BLL.dll
+D:\工作簿\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\BLL\bin\Release\BLL.pdb
+D:\工作簿\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\BLL\obj\Release\BLL.dll
+D:\工作簿\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\BLL\obj\Release\BLL.pdb
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\BLL\bin\Release\BLL.dll
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\BLL\bin\Release\BLL.pdb
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\BLL\bin\Release\DAL.dll
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\BLL\bin\Release\Model.dll
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\BLL\bin\Release\NPOI.OOXML.dll
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\BLL\bin\Release\NPOI.dll
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\BLL\bin\Release\NPOI.OpenXmlFormats.dll
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\BLL\bin\Release\NPOI.OpenXml4Net.dll
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\BLL\bin\Release\ICSharpCode.SharpZipLib.dll
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\BLL\bin\Release\DAL.pdb
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\BLL\bin\Release\Model.pdb
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\BLL\bin\Release\NPOI.xml
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\BLL\obj\Release\BLL.csprojResolveAssemblyReference.cache
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\BLL\obj\Release\BLL.dll
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\BLL\obj\Release\BLL.pdb

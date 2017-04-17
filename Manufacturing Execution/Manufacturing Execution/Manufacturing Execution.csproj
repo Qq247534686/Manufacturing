@@ -1,0 +1,462 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4F1535ED-28E7-4396-9F10-61E5DF9D7CCE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Manufacturing_Execution</RootNamespace>
+    <AssemblyName>Manufacturing Execution</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevComponents.DotNetBar.Layout, Version=12.5.0.2, Culture=neutral, PublicKeyToken=c39c3242a43eee2b, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>dll\DevComponents.DotNetBar.Layout.dll</HintPath>
+    </Reference>
+    <Reference Include="DevComponents.DotNetBar.Schedule, Version=12.5.0.2, Culture=neutral, PublicKeyToken=c39c3242a43eee2b, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>dll\DevComponents.DotNetBar.Schedule.dll</HintPath>
+    </Reference>
+    <Reference Include="DevComponents.DotNetBar.SuperGrid, Version=12.5.0.2, Culture=neutral, PublicKeyToken=c39c3242a43eee2b, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>dll\DevComponents.DotNetBar.SuperGrid.dll</HintPath>
+    </Reference>
+    <Reference Include="DevComponents.DotNetBar2, Version=12.5.0.2, Culture=neutral, PublicKeyToken=c39c3242a43eee2b, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>dll\DevComponents.DotNetBar2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevComponents.Instrumentation, Version=12.5.0.2, Culture=neutral, PublicKeyToken=bc4a9d761ea44ef0, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>dll\DevComponents.Instrumentation.dll</HintPath>
+    </Reference>
+    <Reference Include="DevComponents.TreeGX, Version=12.5.0.2, Culture=neutral, PublicKeyToken=cfcbd7476b2389d1, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>dll\DevComponents.TreeGX.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing.Design" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdverseAnalysis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdverseAnalysis.Designer.cs">
+      <DependentUpon>AdverseAnalysis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alert.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alert.Designer.cs">
+      <DependentUpon>Alert.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BadReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BadReport.Designer.cs">
+      <DependentUpon>BadReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CleaningSite.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CleaningSite.Designer.cs">
+      <DependentUpon>CleaningSite.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConfirmWorkOrder .cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConfirmWorkOrder .Designer.cs">
+      <DependentUpon>ConfirmWorkOrder .cs</DependentUpon>
+    </Compile>
+    <Compile Include="CreateAWorkOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CreateAWorkOrder.Designer.cs">
+      <DependentUpon>CreateAWorkOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ImportWorkOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ImportWorkOrder.Designer.cs">
+      <DependentUpon>ImportWorkOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainPage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="MainPage.Designer.cs">
+      <DependentUpon>MainPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manufacturing3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manufacturing3.Designer.cs">
+      <DependentUpon>Manufacturing3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MaintainWorkOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MaintainWorkOrder.Designer.cs">
+      <DependentUpon>MaintainWorkOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manufacturing2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manufacturing2.Designer.cs">
+      <DependentUpon>Manufacturing2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OutgoingQuery.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OutgoingQuery.Designer.cs">
+      <DependentUpon>OutgoingQuery.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PackagingSite.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PackagingSite.Designer.cs">
+      <DependentUpon>PackagingSite.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProcessMaintenance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProcessMaintenance.Designer.cs">
+      <DependentUpon>ProcessMaintenance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProductInformation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProductInformation.Designer.cs">
+      <DependentUpon>ProductInformation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PublicInformation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PublicInformation.Designer.cs">
+      <DependentUpon>PublicInformation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Query.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Query.Designer.cs">
+      <DependentUpon>Query.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReworkInput.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReworkInput.Designer.cs">
+      <DependentUpon>ReworkInput.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReworkOut.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReworkOut.Designer.cs">
+      <DependentUpon>ReworkOut.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ScrapInput.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ScrapInput.Designer.cs">
+      <DependentUpon>ScrapInput.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ServiceTheInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ServiceTheInfo.Designer.cs">
+      <DependentUpon>ServiceTheInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Specifications.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Specifications.Designer.cs">
+      <DependentUpon>Specifications.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SpecificationsQuery.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SpecificationsQuery.Designer.cs">
+      <DependentUpon>SpecificationsQuery.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SpecificInformation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SpecificInformation.Designer.cs">
+      <DependentUpon>SpecificInformation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SpecificInformationQuery.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SpecificInformationQuery.Designer.cs">
+      <DependentUpon>SpecificInformationQuery.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SpellCabinetSite.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SpellCabinetSite.Designer.cs">
+      <DependentUpon>SpellCabinetSite.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StackSite.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StackSite.Designer.cs">
+      <DependentUpon>StackSite.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manufacturing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manufacturing.Designer.cs">
+      <DependentUpon>Manufacturing.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TheAssociatedCode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TheAssociatedCode.Designer.cs">
+      <DependentUpon>TheAssociatedCode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TheFinishProductInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TheFinishProductInfo.Designer.cs">
+      <DependentUpon>TheFinishProductInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserLogin.Designer.cs">
+      <DependentUpon>UserLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WeldingSite.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WeldingSite.Designer.cs">
+      <DependentUpon>WeldingSite.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AdverseAnalysis.resx">
+      <DependentUpon>AdverseAnalysis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alert.resx">
+      <DependentUpon>Alert.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BadReport.resx">
+      <DependentUpon>BadReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CleaningSite.resx">
+      <DependentUpon>CleaningSite.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConfirmWorkOrder .resx">
+      <DependentUpon>ConfirmWorkOrder .cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CreateAWorkOrder.resx">
+      <DependentUpon>CreateAWorkOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ImportWorkOrder.resx">
+      <DependentUpon>ImportWorkOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainPage.resx">
+      <DependentUpon>MainPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manufacturing3.resx">
+      <DependentUpon>Manufacturing3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MaintainWorkOrder.resx">
+      <DependentUpon>MaintainWorkOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manufacturing2.resx">
+      <DependentUpon>Manufacturing2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OutgoingQuery.resx">
+      <DependentUpon>OutgoingQuery.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PackagingSite.resx">
+      <DependentUpon>PackagingSite.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProcessMaintenance.resx">
+      <DependentUpon>ProcessMaintenance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProductInformation.resx">
+      <DependentUpon>ProductInformation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="PublicInformation.resx">
+      <DependentUpon>PublicInformation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Query.resx">
+      <DependentUpon>Query.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReworkInput.resx">
+      <DependentUpon>ReworkInput.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReworkOut.resx">
+      <DependentUpon>ReworkOut.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ScrapInput.resx">
+      <DependentUpon>ScrapInput.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ServiceTheInfo.resx">
+      <DependentUpon>ServiceTheInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Specifications.resx">
+      <DependentUpon>Specifications.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SpecificationsQuery.resx">
+      <DependentUpon>SpecificationsQuery.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SpecificInformation.resx">
+      <DependentUpon>SpecificInformation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SpecificInformationQuery.resx">
+      <DependentUpon>SpecificInformationQuery.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SpellCabinetSite.resx">
+      <DependentUpon>SpellCabinetSite.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StackSite.resx">
+      <DependentUpon>StackSite.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manufacturing.resx">
+      <DependentUpon>Manufacturing.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TheAssociatedCode.resx">
+      <DependentUpon>TheAssociatedCode.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TheFinishProductInfo.resx">
+      <DependentUpon>TheFinishProductInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserLogin.resx">
+      <DependentUpon>UserLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WeldingSite.resx">
+      <DependentUpon>WeldingSite.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="dll\DevComponents.DotNetBar.Layout.dll" />
+    <Content Include="dll\DevComponents.DotNetBar.Schedule.dll" />
+    <Content Include="dll\DevComponents.DotNetBar.SuperGrid.dll" />
+    <Content Include="dll\DevComponents.DotNetBar2.dll" />
+    <Content Include="dll\DevComponents.Instrumentation.dll" />
+    <Content Include="dll\DevComponents.TreeGX.dll" />
+    <Content Include="Images\2.png" />
+    <Content Include="Images\dyj.png" />
+    <Content Include="Images\bg.jpg" />
+    <Content Include="Images\production_32px_1082623_easyicon.net.png" />
+    <Content Include="Images\production_64px_1082623_easyicon.net.png" />
+    <Content Include="Images\production_96px_1082623_easyicon.net.png" />
+    <Content Include="Images\warning.png" />
+    <Content Include="Resources\AttachFile.png" />
+    <Content Include="Resources\BookNote.png" />
+    <Content Include="Resources\BookNoteWhite.png" />
+    <Content Include="Resources\Charts.png" />
+    <Content Include="Resources\CheckMark.png" />
+    <Content Include="Resources\ColorScheme.png" />
+    <Content Include="Resources\contact.png" />
+    <Content Include="Resources\Delete.png" />
+    <Content Include="Resources\Delete1.png" />
+    <Content Include="Resources\DeleteWhite.png" />
+    <Content Include="Resources\Details.png" />
+    <Content Include="Resources\Help.png" />
+    <Content Include="Resources\Invoice.png" />
+    <Content Include="Resources\MarkAsPaid.png" />
+    <Content Include="Resources\MarkAsPaidWhite.png" />
+    <Content Include="Resources\NewInvoice.png" />
+    <Content Include="Resources\NewInvoice1.png" />
+    <Content Include="Resources\NewInvoiceWhite.png" />
+    <Content Include="Resources\NewNote.png" />
+    <Content Include="Resources\PaperClip.png" />
+    <Content Include="Resources\PaperClipWhite.png" />
+    <Content Include="Resources\Person.png" />
+    <Content Include="Resources\Print.png" />
+    <Content Include="Resources\Print1.png" />
+    <Content Include="Resources\PrintWhite.png" />
+    <Content Include="Resources\Table.png" />
+    <Content Include="Resources\Table1.png" />
+    <Content Include="Resources\TableReportt.png" />
+    <Content Include="Resources\TableSelectRow.png" />
+    <Content Include="Resources\TableWhite.png" />
+    <Content Include="Resources\TableWhite1.png" />
+    <Content Include="Resources\Unpaid.png" />
+    <Content Include="Resources\User.png" />
+    <Content Include="Resources\User1.png" />
+    <Content Include="Resources\User3.png" />
+    <Content Include="Resources\UserWhite.png" />
+    <Content Include="Resources\UserWhite1.png" />
+    <Content Include="Resources\Web.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Resources\Btn_Images\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BLL\BLL.csproj">
+      <Project>{1afd7c41-4ebb-4f08-9594-957e3390ea66}</Project>
+      <Name>BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Model\Model.csproj">
+      <Project>{aed2d860-b95b-4724-a86f-ea42a1ec34ab}</Project>
+      <Name>Model</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

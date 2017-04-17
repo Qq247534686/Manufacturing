@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\Manufacturing Execution\Model\bin\Release\Model.dll
+C:\Users\Administrator\Desktop\Manufacturing Execution\Model\bin\Release\Model.pdb
+C:\Users\Administrator\Desktop\Manufacturing Execution\Model\obj\Release\Model.dll
+C:\Users\Administrator\Desktop\Manufacturing Execution\Model\obj\Release\Model.pdb
+G:\工作簿\MES管理系统\Manufacturing Execution\Model\bin\Release\Model.dll
+G:\工作簿\MES管理系统\Manufacturing Execution\Model\bin\Release\Model.pdb
+G:\工作簿\MES管理系统\Manufacturing Execution\Model\obj\Release\Model.dll
+G:\工作簿\MES管理系统\Manufacturing Execution\Model\obj\Release\Model.pdb
+D:\工作簿\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Model\bin\Release\Model.dll
+D:\工作簿\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Model\bin\Release\Model.pdb
+D:\工作簿\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Model\obj\Release\Model.dll
+D:\工作簿\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Model\obj\Release\Model.pdb
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\Model\bin\Release\Model.dll
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\Model\bin\Release\Model.pdb
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\Model\obj\Release\Model.dll
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\Model\obj\Release\Model.pdb

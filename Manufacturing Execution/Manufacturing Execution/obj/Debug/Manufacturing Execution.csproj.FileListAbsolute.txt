@@ -1,0 +1,281 @@
+C:\Users\Administrator\Desktop\Manufacturing Execution\Manufacturing Execution\bin\Debug\Manufacturing Execution.exe.config
+C:\Users\Administrator\Desktop\Manufacturing Execution\Manufacturing Execution\bin\Debug\Manufacturing Execution.exe
+C:\Users\Administrator\Desktop\Manufacturing Execution\Manufacturing Execution\bin\Debug\Manufacturing Execution.pdb
+C:\Users\Administrator\Desktop\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.Form1.resources
+C:\Users\Administrator\Desktop\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing Execution.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing Execution.exe
+C:\Users\Administrator\Desktop\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing Execution.pdb
+G:\工作簿\MES管理系统\Manufacturing Execution\Manufacturing Execution\bin\Debug\Manufacturing Execution.exe.config
+G:\工作簿\MES管理系统\Manufacturing Execution\Manufacturing Execution\bin\Debug\Manufacturing Execution.exe
+G:\工作簿\MES管理系统\Manufacturing Execution\Manufacturing Execution\bin\Debug\Manufacturing Execution.pdb
+G:\工作簿\MES管理系统\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.AdverseAnalysis.resources
+G:\工作簿\MES管理系统\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.BadReport.resources
+G:\工作簿\MES管理系统\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.CleaningSite.resources
+G:\工作簿\MES管理系统\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.CreateAWorkOrder.resources
+G:\工作簿\MES管理系统\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.MaintainWorkOrder.resources
+G:\工作簿\MES管理系统\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.Manufacturing.resources
+G:\工作簿\MES管理系统\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.OutgoingQuery.resources
+G:\工作簿\MES管理系统\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.PackagingSite.resources
+G:\工作簿\MES管理系统\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.ProcessMaintenance.resources
+G:\工作簿\MES管理系统\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.ProductInformation.resources
+G:\工作簿\MES管理系统\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.Properties.Resources.resources
+G:\工作簿\MES管理系统\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.PublicInformation.resources
+G:\工作簿\MES管理系统\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.Query.resources
+G:\工作簿\MES管理系统\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.ReworkInput.resources
+G:\工作簿\MES管理系统\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.ReworkOut.resources
+G:\工作簿\MES管理系统\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.ScrapInput.resources
+G:\工作簿\MES管理系统\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.ServiceInfo.resources
+G:\工作簿\MES管理系统\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.Specifications.resources
+G:\工作簿\MES管理系统\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.SpecificInformation.resources
+G:\工作簿\MES管理系统\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.SpellCabinetSite.resources
+G:\工作簿\MES管理系统\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.StackSite.resources
+G:\工作簿\MES管理系统\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.TheAssociatedCode.resources
+G:\工作簿\MES管理系统\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.TheFinishProductInfo.resources
+G:\工作簿\MES管理系统\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.WeldingSite.resources
+G:\工作簿\MES管理系统\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing Execution.csproj.GenerateResource.Cache
+G:\工作簿\MES管理系统\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing Execution.exe
+G:\工作簿\MES管理系统\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing Execution.pdb
+E:\工作薄\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\bin\Debug\Manufacturing Execution.exe.config
+E:\工作薄\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing Execution.exe
+E:\工作薄\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing Execution.pdb
+E:\工作薄\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\bin\Debug\Manufacturing Execution.exe
+E:\工作薄\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\bin\Debug\Manufacturing Execution.pdb
+E:\工作薄\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\bin\Debug\BLL.dll
+E:\工作薄\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\bin\Debug\Model.dll
+E:\工作薄\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\bin\Debug\BLL.pdb
+E:\工作薄\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\bin\Debug\Model.pdb
+E:\工作薄\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing Execution.csprojResolveAssemblyReference.cache
+E:\工作薄\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.AdverseAnalysis.resources
+E:\工作薄\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.Alert.resources
+E:\工作薄\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.BadReport.resources
+E:\工作薄\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.CleaningSite.resources
+E:\工作薄\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.CreateAWorkOrder.resources
+E:\工作薄\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.Manufacturing3.resources
+E:\工作薄\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.MaintainWorkOrder.resources
+E:\工作薄\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.Manufacturing2.resources
+E:\工作薄\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.OutgoingQuery.resources
+E:\工作薄\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.PackagingSite.resources
+E:\工作薄\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.ProcessMaintenance.resources
+E:\工作薄\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.ProductInformation.resources
+E:\工作薄\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.Properties.Resources.resources
+E:\工作薄\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.PublicInformation.resources
+E:\工作薄\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.Query.resources
+E:\工作薄\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.ReworkInput.resources
+E:\工作薄\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.ReworkOut.resources
+E:\工作薄\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.ScrapInput.resources
+E:\工作薄\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.ServiceInfo.resources
+E:\工作薄\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.Specifications.resources
+E:\工作薄\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.SpecificInformation.resources
+E:\工作薄\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.SpellCabinetSite.resources
+E:\工作薄\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.StackSite.resources
+E:\工作薄\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.Manufacturing.resources
+E:\工作薄\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.TheAssociatedCode.resources
+E:\工作薄\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.TheFinishProductInfo.resources
+E:\工作薄\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.WeldingSite.resources
+E:\工作薄\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing Execution.csproj.GenerateResource.Cache
+D:\工作簿\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\bin\Debug\Manufacturing Execution.exe
+D:\工作簿\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\bin\Debug\Manufacturing Execution.exe.config
+D:\工作簿\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\bin\Debug\Manufacturing Execution.pdb
+D:\工作簿\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\bin\Debug\BLL.dll
+D:\工作簿\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\bin\Debug\Model.dll
+D:\工作簿\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\bin\Debug\DAL.dll
+D:\工作簿\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\bin\Debug\NPOI.OOXML.dll
+D:\工作簿\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\bin\Debug\NPOI.dll
+D:\工作簿\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\工作簿\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\bin\Debug\NPOI.OpenXml4Net.dll
+D:\工作簿\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\工作簿\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\bin\Debug\BLL.pdb
+D:\工作簿\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\bin\Debug\Model.pdb
+D:\工作簿\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\bin\Debug\DAL.pdb
+D:\工作簿\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\bin\Debug\NPOI.xml
+D:\工作簿\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing Execution.csprojResolveAssemblyReference.cache
+D:\工作簿\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.AdverseAnalysis.resources
+D:\工作簿\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.Alert.resources
+D:\工作簿\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.BadReport.resources
+D:\工作簿\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.CleaningSite.resources
+D:\工作簿\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.CreateAWorkOrder.resources
+D:\工作簿\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.ImportWorkOrder.resources
+D:\工作簿\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.MainPage.resources
+D:\工作簿\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.Manufacturing3.resources
+D:\工作簿\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.MaintainWorkOrder.resources
+D:\工作簿\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.Manufacturing2.resources
+D:\工作簿\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.OutgoingQuery.resources
+D:\工作簿\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.PackagingSite.resources
+D:\工作簿\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.ProcessMaintenance.resources
+D:\工作簿\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.ProductInformation.resources
+D:\工作簿\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.Properties.Resources.resources
+D:\工作簿\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.PublicInformation.resources
+D:\工作簿\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.Query.resources
+D:\工作簿\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.ReworkInput.resources
+D:\工作簿\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.ReworkOut.resources
+D:\工作簿\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.ScrapInput.resources
+D:\工作簿\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.ServiceInfo.resources
+D:\工作簿\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.Specifications.resources
+D:\工作簿\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.SpecificationsQuery.resources
+D:\工作簿\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.SpecificInformation.resources
+D:\工作簿\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.SpellCabinetSite.resources
+D:\工作簿\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.StackSite.resources
+D:\工作簿\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.Manufacturing.resources
+D:\工作簿\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.TheAssociatedCode.resources
+D:\工作簿\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.TheFinishProductInfo.resources
+D:\工作簿\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.WeldingSite.resources
+D:\工作簿\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing Execution.csproj.GenerateResource.Cache
+D:\工作簿\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing Execution.exe
+D:\工作簿\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing Execution.pdb
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\bin\Debug\Manufacturing Execution.exe.config
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\bin\Debug\Manufacturing Execution.exe
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\bin\Debug\Manufacturing Execution.pdb
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\bin\Debug\BLL.dll
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\bin\Debug\Model.dll
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\bin\Debug\DAL.dll
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\bin\Debug\NPOI.OOXML.dll
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\bin\Debug\NPOI.dll
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\bin\Debug\NPOI.OpenXmlFormats.dll
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\bin\Debug\NPOI.OpenXml4Net.dll
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\bin\Debug\ICSharpCode.SharpZipLib.dll
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\bin\Debug\BLL.pdb
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\bin\Debug\Model.pdb
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\bin\Debug\DAL.pdb
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\bin\Debug\NPOI.xml
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing Execution.csprojResolveAssemblyReference.cache
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.AdverseAnalysis.resources
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.Alert.resources
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.BadReport.resources
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.CleaningSite.resources
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.CreateAWorkOrder.resources
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.ImportWorkOrder.resources
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.MainPage.resources
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.Manufacturing3.resources
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.MaintainWorkOrder.resources
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.Manufacturing2.resources
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.OutgoingQuery.resources
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.PackagingSite.resources
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.ProcessMaintenance.resources
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.ProductInformation.resources
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.Properties.Resources.resources
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.PublicInformation.resources
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.Query.resources
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.ReworkInput.resources
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.ReworkOut.resources
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.ScrapInput.resources
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.Specifications.resources
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.SpecificationsQuery.resources
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.SpecificInformation.resources
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.SpecificInformationQuery.resources
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.SpellCabinetSite.resources
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.StackSite.resources
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.Manufacturing.resources
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.TheAssociatedCode.resources
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.TheFinishProductInfo.resources
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.WeldingSite.resources
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing Execution.csproj.GenerateResource.Cache
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing Execution.exe
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing Execution.pdb
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.ConfirmWorkOrder.resources
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.ServiceTheInfo.resources
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.UserLogin.resources
+E:\WorkBook\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\bin\Debug\Manufacturing Execution.exe.config
+E:\WorkBook\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing Execution.exe
+E:\WorkBook\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing Execution.pdb
+E:\WorkBook\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\bin\Debug\Manufacturing Execution.exe
+E:\WorkBook\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\bin\Debug\Manufacturing Execution.pdb
+E:\WorkBook\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\bin\Debug\BLL.dll
+E:\WorkBook\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\bin\Debug\Model.dll
+E:\WorkBook\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\bin\Debug\DAL.dll
+E:\WorkBook\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\bin\Debug\NPOI.OOXML.dll
+E:\WorkBook\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\bin\Debug\NPOI.dll
+E:\WorkBook\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\WorkBook\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\bin\Debug\NPOI.OpenXml4Net.dll
+E:\WorkBook\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\WorkBook\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\bin\Debug\BLL.pdb
+E:\WorkBook\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\bin\Debug\Model.pdb
+E:\WorkBook\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\bin\Debug\DAL.pdb
+E:\WorkBook\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\bin\Debug\NPOI.xml
+E:\WorkBook\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing Execution.csprojResolveAssemblyReference.cache
+E:\WorkBook\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.AdverseAnalysis.resources
+E:\WorkBook\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.Alert.resources
+E:\WorkBook\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.BadReport.resources
+E:\WorkBook\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.CleaningSite.resources
+E:\WorkBook\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.ConfirmWorkOrder.resources
+E:\WorkBook\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.CreateAWorkOrder.resources
+E:\WorkBook\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.ImportWorkOrder.resources
+E:\WorkBook\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.MainPage.resources
+E:\WorkBook\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.Manufacturing3.resources
+E:\WorkBook\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.MaintainWorkOrder.resources
+E:\WorkBook\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.Manufacturing2.resources
+E:\WorkBook\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.OutgoingQuery.resources
+E:\WorkBook\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.PackagingSite.resources
+E:\WorkBook\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.ProcessMaintenance.resources
+E:\WorkBook\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.ProductInformation.resources
+E:\WorkBook\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.Properties.Resources.resources
+E:\WorkBook\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.PublicInformation.resources
+E:\WorkBook\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.Query.resources
+E:\WorkBook\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.ReworkInput.resources
+E:\WorkBook\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.ReworkOut.resources
+E:\WorkBook\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.ScrapInput.resources
+E:\WorkBook\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.ServiceTheInfo.resources
+E:\WorkBook\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.Specifications.resources
+E:\WorkBook\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.SpecificationsQuery.resources
+E:\WorkBook\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.SpecificInformation.resources
+E:\WorkBook\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.SpecificInformationQuery.resources
+E:\WorkBook\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.SpellCabinetSite.resources
+E:\WorkBook\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.StackSite.resources
+E:\WorkBook\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.Manufacturing.resources
+E:\WorkBook\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.TheAssociatedCode.resources
+E:\WorkBook\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.TheFinishProductInfo.resources
+E:\WorkBook\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.UserLogin.resources
+E:\WorkBook\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.WeldingSite.resources
+E:\WorkBook\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing Execution.csproj.GenerateResource.Cache
+F:\Work\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\bin\Debug\Manufacturing Execution.exe.config
+F:\Work\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\bin\Debug\Manufacturing Execution.exe
+F:\Work\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\bin\Debug\Manufacturing Execution.pdb
+F:\Work\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\bin\Debug\BLL.dll
+F:\Work\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\bin\Debug\Model.dll
+F:\Work\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\bin\Debug\DAL.dll
+F:\Work\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\bin\Debug\NPOI.OOXML.dll
+F:\Work\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\bin\Debug\NPOI.dll
+F:\Work\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\bin\Debug\NPOI.OpenXmlFormats.dll
+F:\Work\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\bin\Debug\NPOI.OpenXml4Net.dll
+F:\Work\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\Work\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\bin\Debug\BLL.pdb
+F:\Work\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\bin\Debug\Model.pdb
+F:\Work\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\bin\Debug\DAL.pdb
+F:\Work\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\bin\Debug\NPOI.xml
+F:\Work\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing Execution.csprojResolveAssemblyReference.cache
+F:\Work\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.AdverseAnalysis.resources
+F:\Work\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.Alert.resources
+F:\Work\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.BadReport.resources
+F:\Work\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.CleaningSite.resources
+F:\Work\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.ConfirmWorkOrder.resources
+F:\Work\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.CreateAWorkOrder.resources
+F:\Work\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.ImportWorkOrder.resources
+F:\Work\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.MainPage.resources
+F:\Work\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.Manufacturing3.resources
+F:\Work\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.MaintainWorkOrder.resources
+F:\Work\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.Manufacturing2.resources
+F:\Work\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.OutgoingQuery.resources
+F:\Work\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.PackagingSite.resources
+F:\Work\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.ProcessMaintenance.resources
+F:\Work\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.ProductInformation.resources
+F:\Work\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.Properties.Resources.resources
+F:\Work\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.PublicInformation.resources
+F:\Work\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.Query.resources
+F:\Work\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.ReworkInput.resources
+F:\Work\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.ReworkOut.resources
+F:\Work\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.ScrapInput.resources
+F:\Work\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.ServiceTheInfo.resources
+F:\Work\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.Specifications.resources
+F:\Work\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.SpecificationsQuery.resources
+F:\Work\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.SpecificInformation.resources
+F:\Work\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.SpecificInformationQuery.resources
+F:\Work\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.SpellCabinetSite.resources
+F:\Work\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.StackSite.resources
+F:\Work\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.Manufacturing.resources
+F:\Work\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.TheAssociatedCode.resources
+F:\Work\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.TheFinishProductInfo.resources
+F:\Work\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.UserLogin.resources
+F:\Work\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing_Execution.WeldingSite.resources
+F:\Work\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing Execution.csproj.GenerateResource.Cache
+F:\Work\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing Execution.exe
+F:\Work\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Manufacturing Execution\obj\Debug\Manufacturing Execution.pdb

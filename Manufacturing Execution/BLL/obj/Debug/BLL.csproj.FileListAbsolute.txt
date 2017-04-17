@@ -1,0 +1,73 @@
+G:\工作簿\MES管理系统\Manufacturing Execution\BLL\bin\Debug\BLL.dll
+G:\工作簿\MES管理系统\Manufacturing Execution\BLL\bin\Debug\BLL.pdb
+G:\工作簿\MES管理系统\Manufacturing Execution\BLL\obj\Debug\BLL.dll
+G:\工作簿\MES管理系统\Manufacturing Execution\BLL\obj\Debug\BLL.pdb
+E:\工作薄\Bar_Manufacturing Execution\Manufacturing Execution\BLL\bin\Debug\BLL.dll
+E:\工作薄\Bar_Manufacturing Execution\Manufacturing Execution\BLL\bin\Debug\BLL.pdb
+E:\工作薄\Bar_Manufacturing Execution\Manufacturing Execution\BLL\bin\Debug\DAL.dll
+E:\工作薄\Bar_Manufacturing Execution\Manufacturing Execution\BLL\bin\Debug\Model.dll
+E:\工作薄\Bar_Manufacturing Execution\Manufacturing Execution\BLL\bin\Debug\DAL.pdb
+E:\工作薄\Bar_Manufacturing Execution\Manufacturing Execution\BLL\bin\Debug\Model.pdb
+E:\工作薄\Bar_Manufacturing Execution\Manufacturing Execution\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\工作薄\Bar_Manufacturing Execution\Manufacturing Execution\BLL\obj\Debug\BLL.dll
+E:\工作薄\Bar_Manufacturing Execution\Manufacturing Execution\BLL\obj\Debug\BLL.pdb
+D:\工作簿\Bar_Manufacturing Execution\Manufacturing Execution\BLL\bin\Debug\BLL.dll
+D:\工作簿\Bar_Manufacturing Execution\Manufacturing Execution\BLL\bin\Debug\BLL.pdb
+D:\工作簿\Bar_Manufacturing Execution\Manufacturing Execution\BLL\bin\Debug\DAL.dll
+D:\工作簿\Bar_Manufacturing Execution\Manufacturing Execution\BLL\bin\Debug\Model.dll
+D:\工作簿\Bar_Manufacturing Execution\Manufacturing Execution\BLL\bin\Debug\NPOI.OOXML.dll
+D:\工作簿\Bar_Manufacturing Execution\Manufacturing Execution\BLL\bin\Debug\NPOI.dll
+D:\工作簿\Bar_Manufacturing Execution\Manufacturing Execution\BLL\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\工作簿\Bar_Manufacturing Execution\Manufacturing Execution\BLL\bin\Debug\NPOI.OpenXml4Net.dll
+D:\工作簿\Bar_Manufacturing Execution\Manufacturing Execution\BLL\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\工作簿\Bar_Manufacturing Execution\Manufacturing Execution\BLL\bin\Debug\DAL.pdb
+D:\工作簿\Bar_Manufacturing Execution\Manufacturing Execution\BLL\bin\Debug\Model.pdb
+D:\工作簿\Bar_Manufacturing Execution\Manufacturing Execution\BLL\bin\Debug\NPOI.xml
+D:\工作簿\Bar_Manufacturing Execution\Manufacturing Execution\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\工作簿\Bar_Manufacturing Execution\Manufacturing Execution\BLL\obj\Debug\BLL.dll
+D:\工作簿\Bar_Manufacturing Execution\Manufacturing Execution\BLL\obj\Debug\BLL.pdb
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\BLL\bin\Debug\BLL.dll
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\BLL\bin\Debug\BLL.pdb
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\BLL\bin\Debug\DAL.dll
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\BLL\bin\Debug\Model.dll
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\BLL\bin\Debug\NPOI.OOXML.dll
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\BLL\bin\Debug\NPOI.dll
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\BLL\bin\Debug\NPOI.OpenXmlFormats.dll
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\BLL\bin\Debug\NPOI.OpenXml4Net.dll
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\BLL\bin\Debug\ICSharpCode.SharpZipLib.dll
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\BLL\bin\Debug\DAL.pdb
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\BLL\bin\Debug\Model.pdb
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\BLL\bin\Debug\NPOI.xml
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\BLL\obj\Debug\BLL.dll
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\BLL\obj\Debug\BLL.pdb
+E:\WorkBook\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\BLL\bin\Debug\BLL.dll
+E:\WorkBook\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\BLL\bin\Debug\BLL.pdb
+E:\WorkBook\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\BLL\bin\Debug\DAL.dll
+E:\WorkBook\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\BLL\bin\Debug\Model.dll
+E:\WorkBook\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\BLL\bin\Debug\NPOI.OOXML.dll
+E:\WorkBook\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\BLL\bin\Debug\NPOI.dll
+E:\WorkBook\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\BLL\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\WorkBook\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\BLL\bin\Debug\NPOI.OpenXml4Net.dll
+E:\WorkBook\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\BLL\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\WorkBook\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\BLL\bin\Debug\DAL.pdb
+E:\WorkBook\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\BLL\bin\Debug\Model.pdb
+E:\WorkBook\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\BLL\bin\Debug\NPOI.xml
+E:\WorkBook\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\WorkBook\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\BLL\obj\Debug\BLL.dll
+E:\WorkBook\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\BLL\obj\Debug\BLL.pdb
+F:\Work\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\BLL\bin\Debug\BLL.dll
+F:\Work\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\BLL\bin\Debug\BLL.pdb
+F:\Work\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\BLL\bin\Debug\DAL.dll
+F:\Work\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\BLL\bin\Debug\Model.dll
+F:\Work\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\BLL\bin\Debug\NPOI.OOXML.dll
+F:\Work\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\BLL\bin\Debug\NPOI.dll
+F:\Work\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\BLL\bin\Debug\NPOI.OpenXmlFormats.dll
+F:\Work\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\BLL\bin\Debug\NPOI.OpenXml4Net.dll
+F:\Work\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\BLL\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\Work\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\BLL\bin\Debug\DAL.pdb
+F:\Work\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\BLL\bin\Debug\Model.pdb
+F:\Work\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\BLL\bin\Debug\NPOI.xml
+F:\Work\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\Work\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\BLL\obj\Debug\BLL.dll
+F:\Work\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\BLL\obj\Debug\BLL.pdb

@@ -1,0 +1,26 @@
+G:\工作簿\MES管理系统\Manufacturing Execution\Model\bin\Debug\Model.dll
+G:\工作簿\MES管理系统\Manufacturing Execution\Model\bin\Debug\Model.pdb
+G:\工作簿\MES管理系统\Manufacturing Execution\Model\obj\Debug\Model.dll
+G:\工作簿\MES管理系统\Manufacturing Execution\Model\obj\Debug\Model.pdb
+E:\工作薄\Bar_Manufacturing Execution\Manufacturing Execution\Model\bin\Debug\Model.dll
+E:\工作薄\Bar_Manufacturing Execution\Manufacturing Execution\Model\bin\Debug\Model.pdb
+E:\工作薄\Bar_Manufacturing Execution\Manufacturing Execution\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+E:\工作薄\Bar_Manufacturing Execution\Manufacturing Execution\Model\obj\Debug\Model.dll
+E:\工作薄\Bar_Manufacturing Execution\Manufacturing Execution\Model\obj\Debug\Model.pdb
+D:\工作簿\Bar_Manufacturing Execution\Manufacturing Execution\Model\bin\Debug\Model.dll
+D:\工作簿\Bar_Manufacturing Execution\Manufacturing Execution\Model\bin\Debug\Model.pdb
+D:\工作簿\Bar_Manufacturing Execution\Manufacturing Execution\Model\obj\Debug\Model.dll
+D:\工作簿\Bar_Manufacturing Execution\Manufacturing Execution\Model\obj\Debug\Model.pdb
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\Model\bin\Debug\Model.dll
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\Model\bin\Debug\Model.pdb
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\Model\obj\Debug\Model.dll
+G:\工作簿\MES管理系统\Bar_Manufacturing Execution\Manufacturing Execution\Model\obj\Debug\Model.pdb
+E:\WorkBook\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Model\bin\Debug\Model.dll
+E:\WorkBook\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Model\bin\Debug\Model.pdb
+E:\WorkBook\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+E:\WorkBook\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Model\obj\Debug\Model.dll
+E:\WorkBook\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Model\obj\Debug\Model.pdb
+F:\Work\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Model\bin\Debug\Model.dll
+F:\Work\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Model\bin\Debug\Model.pdb
+F:\Work\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Model\obj\Debug\Model.dll
+F:\Work\Bar_Manufacturing Execution\Bar_Manufacturing Execution\Manufacturing Execution\Model\obj\Debug\Model.pdb
